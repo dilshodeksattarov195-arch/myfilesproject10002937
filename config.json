@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenpalidate",
+        "uuid": 24030534,
+        "checksum": "z410df"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
